@@ -7,14 +7,14 @@ Multi-LLM Manager is a Python package that enables seamless interaction with mul
 ## Installation
 
 ```bash
-pip install multi_llm_manager
+pip install APIShift
 ```
 
 ## Quick Start
 
 ```python
-from multi_llm_manager import Conversation
-from multi_llm_manager import GeminiProvider, OpenRouterProvider
+from APIShift import Conversation
+from APIShift import GeminiProvider, OpenRouterProvider
 
 # Initialize providers with API keys
 gemini_keys = ['your_gemini_api_key1', 'your_gemini_api_key2']
