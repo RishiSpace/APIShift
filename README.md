@@ -1,8 +1,8 @@
-# Multi-LLM Manager
+# APIShift
 
 ## Overview
 
-Multi-LLM Manager is a Python package that enables seamless interaction with multiple free-tier language model (LLM) providers.
+APIShift is a Python package that enables seamless interaction with multiple free-tier language model (LLM) providers.
 
 ## Installation
 
