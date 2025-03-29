@@ -1,6 +1,6 @@
 import unittest
-from multi_llm_manager import Conversation
-from multi_llm_manager import GeminiProvider, OpenRouterProvider
+from APIShift import Conversation
+from APIShift import GeminiProvider, OpenRouterProvider
 
 class TestConversation(unittest.TestCase):
     def setUp(self):
